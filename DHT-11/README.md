@@ -5,10 +5,10 @@
 
 ## Features
 * DHT series numeric humiture sensor.
-* Humidity measuring range: 20-90 %RH (0-50 celsius temperature compensation)
-* Temperature measuring range: 0-50 celsius
+* Humidity measuring range: 20-90 %RH (0-50 ℃ temperature compensation)
+* Temperature measuring range: 0-50 ℃
 * Humidity measurement accuracy: +-5.0 %RH
-* Temperature measurement accuracy: +-2.0 celsius
+* Temperature measurement accuracy: +-2.0 ℃
 * Response time: <5s
 * Low power consumption
 * Size: 2.3cm x 1.2cm x 0.5cm
@@ -18,6 +18,3 @@
 
 ## Library
 <http://playground.arduino.cc/Main/DHT11Lib>
-
-
-
